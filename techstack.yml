@@ -1,0 +1,18 @@
+repo_name: wirtaw/Markdown-Tutorial
+report_id: 935f9c903ff26e3de6c778e8bb47e4ff
+repo_type: Public
+timestamp: '2023-11-11T19:48:44+00:00'
+requested_by: wirtaw
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
